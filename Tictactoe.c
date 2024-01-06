@@ -7,13 +7,11 @@ void board()
     system("cls");
     printf("---------------------Tic Tac Toe--------------------\n\n");
     printf("Player 1(x)-----------------Player 2(o)\n\n");
-    // printf("   |   |   \n");
     printf(" %c | %c | %c \n",pst[0],pst[1],pst[2]);
     printf("___|___|___\n");
     printf("   |   |   \n");
     printf(" %c | %c | %c \n",pst[3],pst[4],pst[5]);
     printf("___|___|___\n");
-    // printf("   |   |   \n");
     printf(" %c | %c | %c \n",pst[6],pst[7],pst[8]);
     printf("   |   |   \n");
 
